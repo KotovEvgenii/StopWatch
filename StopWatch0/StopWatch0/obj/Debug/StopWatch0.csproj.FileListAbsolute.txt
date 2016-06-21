@@ -7,3 +7,6 @@ D:\Project for GIT\C# StopWatch\StopWatch0\StopWatch0\obj\Debug\StopWatch0.Prope
 D:\Project for GIT\C# StopWatch\StopWatch0\StopWatch0\obj\Debug\StopWatch0.csproj.GenerateResource.Cache
 D:\Project for GIT\C# StopWatch\StopWatch0\StopWatch0\obj\Debug\StopWatch0.exe
 D:\Project for GIT\C# StopWatch\StopWatch0\StopWatch0\obj\Debug\StopWatch0.pdb
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\bin\Debug\StopWatch0.exe.config
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.exe
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.pdb

@@ -49,7 +49,7 @@
             this.labelTime.Name = "labelTime";
             this.labelTime.Size = new System.Drawing.Size(156, 54);
             this.labelTime.TabIndex = 0;
-            this.labelTime.Text = "00:00:000";
+            this.labelTime.Text = "00:00:00";
             this.labelTime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // textNotes
