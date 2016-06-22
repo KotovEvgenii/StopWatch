@@ -10,3 +10,18 @@ D:\Project for GIT\C# StopWatch\StopWatch0\StopWatch0\obj\Debug\StopWatch0.pdb
 D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\bin\Debug\StopWatch0.exe.config
 D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.exe
 D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.pdb
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\bin\Debug\StopWatch0.exe.config
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\obj\Debug\StopWatch0.exe
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\obj\Debug\StopWatch0.pdb
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\bin\Debug\StopWatch0.exe
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\bin\Debug\StopWatch0.pdb
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\obj\Debug\StopWatch0.csprojResolveAssemblyReference.cache
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\obj\Debug\StopWatch0.FormStopWatch.resources
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\obj\Debug\StopWatch0.Properties.Resources.resources
+C:\Users\Evgenii\Desktop\StopWatch-master\StopWatch0\StopWatch0\obj\Debug\StopWatch0.csproj.GenerateResource.Cache
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\bin\Debug\StopWatch0.exe
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\bin\Debug\StopWatch0.pdb
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.csprojResolveAssemblyReference.cache
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.FormStopWatch.resources
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.Properties.Resources.resources
+D:\Project for GIT\C# StopWatch\StopWatch.git\StopWatch0\StopWatch0\obj\Debug\StopWatch0.csproj.GenerateResource.Cache
